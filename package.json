@@ -19,7 +19,7 @@
   "repository": "github:patriksimek/vm2",
   "license": "MIT",
   "dependencies": {
-    "acorn": "^8.7.0",
+    "acorn": "^8.8.2",
     "acorn-walk": "^8.2.0"
   },
   "devDependencies": {
